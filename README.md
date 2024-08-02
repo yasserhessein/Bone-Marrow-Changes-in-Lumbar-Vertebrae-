@@ -2,19 +2,9 @@
 
 
 
-<div style="color:white;
-           display:fill;
-           border-radius:5px;
-           background-color:#bcbcbc;
-           font-size:300%;
-           font-family:Verdana;
-           letter-spacing:0.5px">
 
-<p style="font-size:30px;text-align:center"> Bone Marrow Changes in Lumbar Vertebrae MRI Classification</p>
-</div>
+![1 (1)](https://github.com/user-attachments/assets/0ad5dbde-3a52-4153-ac42-ca584acc1640)
 
-
-<p style="text-align:center;"><img src="https://www.ajronline.org/cms/10.2214/AJR.11.7005/asset/images/12_11_7005_01.jpeg" width="200" height="350">
     
     
     
